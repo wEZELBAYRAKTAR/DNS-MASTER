@@ -1,6 +1,8 @@
-# DNS-Temizleyici
+# DNS-MASTER
 
-**DNS-Temizleyici**, Windows işletim sistemlerinde DNS önbelleğini temizlemek, IP adreslerini serbest bırakmak ve yenilemek için kullanılan basit bir batch scriptidir.
+[DNS Master](https://github.com/user-attachments/assets/d6221568-dbbb-4ea1-a6f6-8c1f833fc92b)
+
+**DNS-MASTER**, Windows işletim sistemlerinde ağ bağlantı sorunlarını gidermek için kullanılan basit ve etkili bir batch scriptidir. Bu script, DNS önbelleğini temizleyerek, IP adreslerini serbest bırakıp yenileyerek ağ bağlantısını sıfırlar ve kullanıcıya işlem tamamlandığında bilgilendirici mesajlar sunar. Özellikle internet bağlantısında yaşanan gecikme, erişim sorunları veya DNS ile ilgili hatalar için hızlı bir çözüm sağlar.
 
 ## Özellikler
 - DNS önbelleğini temizleme
